@@ -1,6 +1,6 @@
 {"name":"grid_biome",
 "ambient_sound":"/SE/Ambience/Amb_Planet_Gas",
-"biomes":[{"spec":"/pa/terrain/grid_biome/development_biome.json",
+"biomes":[{"spec":"/pa/terrain/grid_biome/grid_biome.json",
 "temperature":[0.0,1,1],"elevation":[null,0.15,1],
 "temperature":[0.2,1,1],
 "elevation":[0,1,1],
